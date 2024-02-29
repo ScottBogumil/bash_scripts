@@ -1,8 +1,8 @@
 #!/bin/bash
 
 ###############################################################################
-# this script takes user input, creates a file formatted for a desktop icon
-# and moves the file to the applicaitons folder to populate the icon
+# this script takes user input, creates a file formatted for a desktop icon   #
+# and moves the file to the applicaitons folder to populate the icon          #
 ###############################################################################
 
 
