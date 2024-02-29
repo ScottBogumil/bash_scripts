@@ -15,6 +15,9 @@
 # for a light (smaller tar file) version simply exclude files 
 # from tar using --exclude
 #
+# add following alias to .bashrc
+# alias backup="cd /home/USER/DIRECTORY/LOCATION_OF_backup.sh && ./backup.sh"
+#
 ##############################################################################
 # USER = your user
 # DIR_TO_BACKUP = your target backup directory
