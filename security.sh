@@ -1,7 +1,9 @@
 #!/bin/bash
-# Program to run daily security services
 
-sudo dnf update -y
-sudo dnf upgrade -y
+###############################################################################
+# updates fedora system and runs rkhunter                                     #
+###############################################################################
+
+sudo dnf up -y
 sudo rkhunter --sk --check
 
